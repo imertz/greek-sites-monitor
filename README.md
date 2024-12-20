@@ -1,3 +1,5 @@
+(εάν σκεφτείτε κάνα site να μπει - ή να βγει - μου λέτε)
+
 # Greek Sites Monitor
 
 A Node.js application for monitoring the availability and response times of important Greek government, educational, and public service websites. The monitor runs automatic checks every minute and stores results in a SQLite database.
