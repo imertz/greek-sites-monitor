@@ -1,0 +1,42 @@
+{
+  "name": "greek-sites-monitor",
+  "version": "1.0.0",
+  "description": "A Node.js application for monitoring the availability and response times of important Greek websites",
+  "main": "monitor.js",
+  "scripts": {
+    "start": "node monitor.js",
+    "monitor": "node monitor.js",
+    "start:pm2": "pm2 start ecosystem.config.js",
+    "stop:pm2": "pm2 stop greek-sites-monitor",
+    "logs": "pm2 logs greek-sites-monitor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imertz/greek-sites-monitor.git"
+  },
+  "keywords": [
+    "monitoring",
+    "uptime",
+    "greece",
+    "websites",
+    "status",
+    "government",
+    "services"
+  ],
+  "author": {
+    "name": "Ioannis Mertzanis",
+    "email": "imertz@protonmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imertz/greek-sites-monitor/issues"
+  },
+  "homepage": "https://github.com/imertz/greek-sites-monitor#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "better-sqlite3": "^11.7.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

@@ -1,0 +1,4 @@
+node_modules/
+site_status.db
+public/
+index.html
