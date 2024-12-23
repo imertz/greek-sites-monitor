@@ -190,7 +190,47 @@ class GreekSiteMonitorServer {
       is_up: result.is_up === 1,
     }));
   }
+  getSiteCategory(siteName) {
+    const categories = {
+      government: [
+        "gov.gr",
+        "gsis",
+        "efka",
+        "ktimalogio",
+        "et.gr",
+        "oaed",
+        "immigration",
+        "passport",
+        "eopyy",
+      ],
+      ministries: [
+        "ministry_digital",
+        "ministry_finance",
+        "ministry_foreign",
+        "ministry_interior",
+        "ministry_education",
+        "ministry_health",
+        "ministry_justice",
+        "ministry_culture",
+        "ministry_tourism",
+      ],
+      education: ["eudoxus", "myschool", "uoa", "auth", "ntua", "upatras"],
+      transportation: ["oasa", "trainose", "athens_airport", "oasth"],
+      utilities: ["eydap", "elta", "cosmote", "nova", "vodafone"],
+      emergency: ["ekav", "civilprotection", "fireservice", "astynomia"],
+      banking: ["bankofgreece", "nbg", "alpha", "eurobank"],
+      media: ["ert", "kathimerini", "tovima", "naftemporiki", "in.gr"],
+      weather: ["emy", "meteo", "noa"],
+      sports: ["gga", "epo", "oaka"],
+    };
 
+    for (const [category, sites] of Object.entries(categories)) {
+      if (sites.includes(siteName)) {
+        return category;
+      }
+    }
+    return "other";
+  }
   updateStatusFile(results) {
     const statusData = {
       lastUpdated: new Date().toISOString(),
@@ -202,6 +242,7 @@ class GreekSiteMonitorServer {
         statusCode: status.status_code,
         error: status.error_message || null,
         lastChecked: status.timestamp,
+        category: this.getSiteCategory(status.site_name),
       })),
     };
 
