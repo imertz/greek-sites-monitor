@@ -1,0 +1,2057 @@
+2024-12-23T00:29:32: (node:91828) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:32: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:32: (node:91902) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:32: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:32: (node:91962) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:32: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:33: (node:92050) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:33: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:33: (node:92125) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:33: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:34: (node:92185) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:34: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:34: (node:92275) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:34: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:35: (node:92349) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:35: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:35: (node:92423) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:35: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:36: (node:92574) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:36: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:36: (node:92650) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:36: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:37: (node:92725) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:37: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:37: (node:92801) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:37: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:37: (node:92861) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:37: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:38: (node:92935) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:38: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:38: (node:93023) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:38: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:39: (node:93083) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:39: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:39: (node:93175) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:39: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:39: (node:93249) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:39: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:40: (node:93309) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:40: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:40: (node:93383) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:40: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:41: (node:93471) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:41: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:41: (node:93531) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:41: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:41: (node:93605) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:41: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:42: (node:93695) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:42: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:43: (node:93843) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:43: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:43: (node:93901) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:43: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:43: (node:93975) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:43: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:44: (node:94064) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:44: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:44: (node:94139) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:44: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:45: (node:94278) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:45: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:45: (node:94353) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:45: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:47: (node:94704) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:47: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:48: (node:94792) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:48: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:48: (node:94866) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:48: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:48: (node:94926) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:48: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:49: (node:95002) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:49: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:49: (node:95091) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:49: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:51: (node:95472) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:51: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:52: (node:95561) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:52: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:52: (node:95642) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:52: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:52: (node:95716) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:52: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:53: (node:95792) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:53: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:53: (node:95866) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:53: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:54: (node:95926) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:54: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:54: (node:96014) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:54: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:54: (node:96088) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:54: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:55: (node:96162) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:55: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:55: (node:96236) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:55: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:56: (node:96312) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:56: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:56: (node:96386) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:56: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:58: (node:96683) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:58: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:58: (node:96743) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:58: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:58: (node:96832) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:58: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:59: (node:96907) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:59: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:29:59: (node:96981) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:29:59: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:00: (node:97131) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:00: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:00: (node:97203) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:00: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:01: (node:97265) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:01: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:01: (node:97353) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:01: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:02: (node:97427) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:02: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:02: (node:97501) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:02: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:02: (node:97561) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:02: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:03: (node:97649) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:03: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:03: (node:97723) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:03: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:04: (node:97798) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:04: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:04: (node:97872) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:04: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:04: (node:97933) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:04: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:05: (node:98021) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:05: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:05: (node:98081) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:05: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:06: (node:98169) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:06: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:06: (node:98243) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:06: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:06: (node:98303) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:06: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:07: (node:98391) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:07: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:07: (node:98452) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:07: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:08: (node:98540) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:08: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:08: (node:98614) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:08: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:08: (node:98674) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:08: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:09: (node:98762) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:09: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:09: (node:98836) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:09: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:10: (node:98910) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:10: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:10: (node:98984) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:10: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:11: (node:99058) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:11: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:11: (node:99208) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:11: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:12: (node:99280) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:12: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:12: (node:99354) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:12: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:13: (node:99502) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:13: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:13: (node:99582) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:13: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:14: (node:99670) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:14: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:14: (node:99745) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:14: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:15: (node:99806) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:15: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:15: (node:99894) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:15: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:15: (node:99955) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:15: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:16: (node:130) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:16: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:17: (node:292) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:17: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:17: (node:367) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:17: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:18: (node:518) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:18: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:18: (node:589) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:18: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:19: (node:708) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:19: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:20: (node:893) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:20: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:20: (node:974) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:20: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:20: (node:1076) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:20: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:21: (node:1185) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:21: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:21: (node:1268) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:21: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:22: (node:1369) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:22: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:22: (node:1432) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:22: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:23: (node:1591) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:23: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:23: (node:1679) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:23: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:24: (node:1754) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:24: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:24: (node:1828) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:24: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:24: (node:1888) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:24: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:25: (node:1976) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:25: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:26: (node:2128) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:26: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:26: (node:2185) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:26: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:27: (node:2347) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:27: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:28: (node:2556) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:28: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:29: (node:2793) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:29: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:32: (node:3232) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:32: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:33: (node:3457) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:33: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:33: (node:3546) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:33: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:34: (node:3620) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:34: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:34: (node:3694) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:34: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:35: (node:3754) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:35: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:35: (node:3842) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:35: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:35: (node:3916) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:35: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:36: (node:3990) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:36: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:36: (node:4064) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:36: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:37: (node:4138) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:37: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:37: (node:4199) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:37: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:37: (node:4288) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:37: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:38: (node:4364) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:38: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:38: (node:4439) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:38: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:39: (node:4525) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:39: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:39: (node:4586) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:39: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:39: (node:4679) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:39: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:40: (node:4753) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:40: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:40: (node:4827) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:40: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:41: (node:4903) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:41: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:41: (node:4978) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:41: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:41: (node:5053) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:41: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:42: (node:5114) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:42: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:42: (node:5191) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:42: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:43: (node:5279) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:43: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:43: (node:5353) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:43: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:43: (node:5413) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:43: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:44: (node:5487) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:44: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:45: (node:5672) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:45: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:45: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:45:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:45:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:45:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:45:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:45:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:45:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:45:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:45:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:45:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:45:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:45:   code: 'EADDRINUSE',
+2024-12-23T00:30:45:   errno: -48,
+2024-12-23T00:30:45:   syscall: 'listen',
+2024-12-23T00:30:45:   address: '::',
+2024-12-23T00:30:45:   port: 3000
+2024-12-23T00:30:45: }
+2024-12-23T00:30:45: (node:5747) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:45: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:45: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:45:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:45:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:45:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:45:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:45:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:45:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:45:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:45:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:45:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:45:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:45:   code: 'EADDRINUSE',
+2024-12-23T00:30:45:   errno: -48,
+2024-12-23T00:30:45:   syscall: 'listen',
+2024-12-23T00:30:45:   address: '::',
+2024-12-23T00:30:45:   port: 3000
+2024-12-23T00:30:45: }
+2024-12-23T00:30:45: (node:5821) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:45: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:45: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:45:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:45:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:45:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:45:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:45:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:45:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:45:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:45:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:45:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:45:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:45:   code: 'EADDRINUSE',
+2024-12-23T00:30:45:   errno: -48,
+2024-12-23T00:30:45:   syscall: 'listen',
+2024-12-23T00:30:45:   address: '::',
+2024-12-23T00:30:45:   port: 3000
+2024-12-23T00:30:45: }
+2024-12-23T00:30:48: (node:6202) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:48: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:48: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:48:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:48:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:48:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:48:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:48:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:48:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:48:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:48:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:48:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:48:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:48:   code: 'EADDRINUSE',
+2024-12-23T00:30:48:   errno: -48,
+2024-12-23T00:30:48:   syscall: 'listen',
+2024-12-23T00:30:48:   address: '::',
+2024-12-23T00:30:48:   port: 3000
+2024-12-23T00:30:48: }
+2024-12-23T00:30:48: (node:6274) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:48: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:48: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:48:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:48:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:48:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:48:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:48:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:48:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:48:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:48:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:48:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:48:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:48:   code: 'EADDRINUSE',
+2024-12-23T00:30:48:   errno: -48,
+2024-12-23T00:30:48:   syscall: 'listen',
+2024-12-23T00:30:48:   address: '::',
+2024-12-23T00:30:48:   port: 3000
+2024-12-23T00:30:48: }
+2024-12-23T00:30:48: (node:6343) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:48: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:48: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:48:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:48:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:48:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:48:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:48:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:48:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:48:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:48:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:48:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:48:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:48:   code: 'EADDRINUSE',
+2024-12-23T00:30:48:   errno: -48,
+2024-12-23T00:30:48:   syscall: 'listen',
+2024-12-23T00:30:48:   address: '::',
+2024-12-23T00:30:48:   port: 3000
+2024-12-23T00:30:48: }
+2024-12-23T00:30:49: (node:6512) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:49: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:49: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:49:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:49:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:49:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:49:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:49:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:49:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:49:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:49:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:49:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:49:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:49:   code: 'EADDRINUSE',
+2024-12-23T00:30:49:   errno: -48,
+2024-12-23T00:30:49:   syscall: 'listen',
+2024-12-23T00:30:49:   address: '::',
+2024-12-23T00:30:49:   port: 3000
+2024-12-23T00:30:49: }
+2024-12-23T00:30:50: (node:6581) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:50: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:50: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:50:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:50:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:50:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:50:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:50:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:50:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:50:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:50:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:50:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:50:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:50:   code: 'EADDRINUSE',
+2024-12-23T00:30:50:   errno: -48,
+2024-12-23T00:30:50:   syscall: 'listen',
+2024-12-23T00:30:50:   address: '::',
+2024-12-23T00:30:50:   port: 3000
+2024-12-23T00:30:50: }
+2024-12-23T00:30:51: (node:6791) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:51: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:51: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:51:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:51:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:51:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:51:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:51:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:51:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:51:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:51:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:51:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:51:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:51:   code: 'EADDRINUSE',
+2024-12-23T00:30:51:   errno: -48,
+2024-12-23T00:30:51:   syscall: 'listen',
+2024-12-23T00:30:51:   address: '::',
+2024-12-23T00:30:51:   port: 3000
+2024-12-23T00:30:51: }
+2024-12-23T00:30:52: (node:6948) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:52: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:52: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:52:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:52:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:52:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:52:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:52:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:52:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:52:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:52:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:52:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:52:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:52:   code: 'EADDRINUSE',
+2024-12-23T00:30:52:   errno: -48,
+2024-12-23T00:30:52:   syscall: 'listen',
+2024-12-23T00:30:52:   address: '::',
+2024-12-23T00:30:52:   port: 3000
+2024-12-23T00:30:52: }
+2024-12-23T00:30:52: (node:7119) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:52: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:52: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:52:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:52:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:52:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:52:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:52:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:52:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:52:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:52:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:52:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:52:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:52:   code: 'EADDRINUSE',
+2024-12-23T00:30:52:   errno: -48,
+2024-12-23T00:30:52:   syscall: 'listen',
+2024-12-23T00:30:52:   address: '::',
+2024-12-23T00:30:52:   port: 3000
+2024-12-23T00:30:52: }
+2024-12-23T00:30:53: (node:7187) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:53: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:53: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:53:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:53:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:53:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:53:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:53:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:53:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:53:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:53:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:53:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:53:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:53:   code: 'EADDRINUSE',
+2024-12-23T00:30:53:   errno: -48,
+2024-12-23T00:30:53:   syscall: 'listen',
+2024-12-23T00:30:53:   address: '::',
+2024-12-23T00:30:53:   port: 3000
+2024-12-23T00:30:53: }
+2024-12-23T00:30:53: (node:7260) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:53: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:53: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:53:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:53:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:53:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:53:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:53:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:53:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:53:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:53:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:53:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:53:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:53:   code: 'EADDRINUSE',
+2024-12-23T00:30:53:   errno: -48,
+2024-12-23T00:30:53:   syscall: 'listen',
+2024-12-23T00:30:53:   address: '::',
+2024-12-23T00:30:53:   port: 3000
+2024-12-23T00:30:53: }
+2024-12-23T00:30:54: (node:7311) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:54: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:54: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:54:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:54:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:54:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:54:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:54:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:54:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:54:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:54:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:54:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:54:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:54:   code: 'EADDRINUSE',
+2024-12-23T00:30:54:   errno: -48,
+2024-12-23T00:30:54:   syscall: 'listen',
+2024-12-23T00:30:54:   address: '::',
+2024-12-23T00:30:54:   port: 3000
+2024-12-23T00:30:54: }
+2024-12-23T00:30:54: (node:7395) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:54: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:54: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:54:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:54:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:54:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:54:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:54:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:54:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:54:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:54:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:54:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:54:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:54:   code: 'EADDRINUSE',
+2024-12-23T00:30:54:   errno: -48,
+2024-12-23T00:30:54:   syscall: 'listen',
+2024-12-23T00:30:54:   address: '::',
+2024-12-23T00:30:54:   port: 3000
+2024-12-23T00:30:54: }
+2024-12-23T00:30:55: (node:7479) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:55: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:55: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:55:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:55:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:55:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:55:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:55:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:55:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:55:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:55:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:55:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:55:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:55:   code: 'EADDRINUSE',
+2024-12-23T00:30:55:   errno: -48,
+2024-12-23T00:30:55:   syscall: 'listen',
+2024-12-23T00:30:55:   address: '::',
+2024-12-23T00:30:55:   port: 3000
+2024-12-23T00:30:55: }
+2024-12-23T00:30:55: (node:7567) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:55: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:55: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:55:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:55:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:55:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:55:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:55:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:55:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:55:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:55:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:55:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:55:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:55:   code: 'EADDRINUSE',
+2024-12-23T00:30:55:   errno: -48,
+2024-12-23T00:30:55:   syscall: 'listen',
+2024-12-23T00:30:55:   address: '::',
+2024-12-23T00:30:55:   port: 3000
+2024-12-23T00:30:55: }
+2024-12-23T00:30:55: (node:7638) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:55: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:55: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:55:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:55:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:55:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:55:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:55:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:55:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:55:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:55:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:55:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:55:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:55:   code: 'EADDRINUSE',
+2024-12-23T00:30:55:   errno: -48,
+2024-12-23T00:30:55:   syscall: 'listen',
+2024-12-23T00:30:55:   address: '::',
+2024-12-23T00:30:55:   port: 3000
+2024-12-23T00:30:55: }
+2024-12-23T00:30:56: (node:7709) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:56: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:56: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:56:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:56:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:56:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:56:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:56:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:56:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:56:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:56:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:56:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:56:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:56:   code: 'EADDRINUSE',
+2024-12-23T00:30:56:   errno: -48,
+2024-12-23T00:30:56:   syscall: 'listen',
+2024-12-23T00:30:56:   address: '::',
+2024-12-23T00:30:56:   port: 3000
+2024-12-23T00:30:56: }
+2024-12-23T00:30:56: (node:7760) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:56: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:56: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:56:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:56:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:56:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:56:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:56:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:56:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:56:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:56:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:56:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:56:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:56:   code: 'EADDRINUSE',
+2024-12-23T00:30:56:   errno: -48,
+2024-12-23T00:30:56:   syscall: 'listen',
+2024-12-23T00:30:56:   address: '::',
+2024-12-23T00:30:56:   port: 3000
+2024-12-23T00:30:56: }
+2024-12-23T00:30:56: (node:7859) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:56: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:56: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:56:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:56:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:56:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:56:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:56:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:56:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:56:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:56:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:56:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:56:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:56:   code: 'EADDRINUSE',
+2024-12-23T00:30:56:   errno: -48,
+2024-12-23T00:30:56:   syscall: 'listen',
+2024-12-23T00:30:56:   address: '::',
+2024-12-23T00:30:56:   port: 3000
+2024-12-23T00:30:56: }
+2024-12-23T00:30:57: (node:7929) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:57: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:57: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:57:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:57:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:57:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:57:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:57:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:57:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:57:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:57:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:57:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:57:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:57:   code: 'EADDRINUSE',
+2024-12-23T00:30:57:   errno: -48,
+2024-12-23T00:30:57:   syscall: 'listen',
+2024-12-23T00:30:57:   address: '::',
+2024-12-23T00:30:57:   port: 3000
+2024-12-23T00:30:57: }
+2024-12-23T00:30:57: (node:8000) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:57: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:57: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:57:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:57:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:57:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:57:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:57:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:57:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:57:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:57:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:57:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:57:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:57:   code: 'EADDRINUSE',
+2024-12-23T00:30:57:   errno: -48,
+2024-12-23T00:30:57:   syscall: 'listen',
+2024-12-23T00:30:57:   address: '::',
+2024-12-23T00:30:57:   port: 3000
+2024-12-23T00:30:57: }
+2024-12-23T00:30:58: (node:8098) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:58: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:58: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:58:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:58:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:58:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:58:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:58:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:58:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:58:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:58:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:58:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:58:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:58:   code: 'EADDRINUSE',
+2024-12-23T00:30:58:   errno: -48,
+2024-12-23T00:30:58:   syscall: 'listen',
+2024-12-23T00:30:58:   address: '::',
+2024-12-23T00:30:58:   port: 3000
+2024-12-23T00:30:58: }
+2024-12-23T00:30:58: (node:8168) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:58: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:58: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:58:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:58:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:58:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:58:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:58:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:58:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:58:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:58:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:58:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:58:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:58:   code: 'EADDRINUSE',
+2024-12-23T00:30:58:   errno: -48,
+2024-12-23T00:30:58:   syscall: 'listen',
+2024-12-23T00:30:58:   address: '::',
+2024-12-23T00:30:58:   port: 3000
+2024-12-23T00:30:58: }
+2024-12-23T00:30:59: (node:8311) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:59: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:59: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:59:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:59:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:59:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:59:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:59:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:59:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:59:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:59:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:59:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:59:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:59:   code: 'EADDRINUSE',
+2024-12-23T00:30:59:   errno: -48,
+2024-12-23T00:30:59:   syscall: 'listen',
+2024-12-23T00:30:59:   address: '::',
+2024-12-23T00:30:59:   port: 3000
+2024-12-23T00:30:59: }
+2024-12-23T00:30:59: (node:8402) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:30:59: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:30:59: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:30:59:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:30:59:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:30:59:     at Server.listen (node:net:2074:7)
+2024-12-23T00:30:59:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:30:59:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:30:59:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:30:59:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:30:59:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:30:59:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:30:59:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:30:59:   code: 'EADDRINUSE',
+2024-12-23T00:30:59:   errno: -48,
+2024-12-23T00:30:59:   syscall: 'listen',
+2024-12-23T00:30:59:   address: '::',
+2024-12-23T00:30:59:   port: 3000
+2024-12-23T00:30:59: }
+2024-12-23T00:31:00: (node:8573) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:00: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:00: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:00:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:00:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:00:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:00:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:00:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:00:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:00:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:00:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:00:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:00:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:00:   code: 'EADDRINUSE',
+2024-12-23T00:31:00:   errno: -48,
+2024-12-23T00:31:00:   syscall: 'listen',
+2024-12-23T00:31:00:   address: '::',
+2024-12-23T00:31:00:   port: 3000
+2024-12-23T00:31:00: }
+2024-12-23T00:31:02: (node:8949) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:02: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:02: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:02:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:02:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:02:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:02:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:02:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:02:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:02:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:02:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:02:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:02:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:02:   code: 'EADDRINUSE',
+2024-12-23T00:31:02:   errno: -48,
+2024-12-23T00:31:02:   syscall: 'listen',
+2024-12-23T00:31:02:   address: '::',
+2024-12-23T00:31:02:   port: 3000
+2024-12-23T00:31:02: }
+2024-12-23T00:31:03: (node:9004) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:03: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:03: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:03:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:03:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:03:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:03:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:03:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:03:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:03:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:03:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:03:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:03:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:03:   code: 'EADDRINUSE',
+2024-12-23T00:31:03:   errno: -48,
+2024-12-23T00:31:03:   syscall: 'listen',
+2024-12-23T00:31:03:   address: '::',
+2024-12-23T00:31:03:   port: 3000
+2024-12-23T00:31:03: }
+2024-12-23T00:31:03: (node:9089) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:03: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:03: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:03:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:03:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:03:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:03:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:03:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:03:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:03:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:03:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:03:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:03:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:03:   code: 'EADDRINUSE',
+2024-12-23T00:31:03:   errno: -48,
+2024-12-23T00:31:03:   syscall: 'listen',
+2024-12-23T00:31:03:   address: '::',
+2024-12-23T00:31:03:   port: 3000
+2024-12-23T00:31:03: }
+2024-12-23T00:31:03: (node:9189) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:03: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:03: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:03:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:03:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:03:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:03:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:03:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:03:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:03:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:03:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:03:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:03:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:03:   code: 'EADDRINUSE',
+2024-12-23T00:31:03:   errno: -48,
+2024-12-23T00:31:03:   syscall: 'listen',
+2024-12-23T00:31:03:   address: '::',
+2024-12-23T00:31:03:   port: 3000
+2024-12-23T00:31:03: }
+2024-12-23T00:31:04: (node:9247) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:04: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:04: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:04:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:04:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:04:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:04:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:04:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:04:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:04:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:04:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:04:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:04:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:04:   code: 'EADDRINUSE',
+2024-12-23T00:31:04:   errno: -48,
+2024-12-23T00:31:04:   syscall: 'listen',
+2024-12-23T00:31:04:   address: '::',
+2024-12-23T00:31:04:   port: 3000
+2024-12-23T00:31:04: }
+2024-12-23T00:31:04: (node:9347) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:04: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:04: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:04:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:04:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:04:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:04:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:04:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:04:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:04:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:04:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:04:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:04:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:04:   code: 'EADDRINUSE',
+2024-12-23T00:31:04:   errno: -48,
+2024-12-23T00:31:04:   syscall: 'listen',
+2024-12-23T00:31:04:   address: '::',
+2024-12-23T00:31:04:   port: 3000
+2024-12-23T00:31:04: }
+2024-12-23T00:31:05: (node:9421) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:05: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:05: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:05:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:05:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:05:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:05:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:05:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:05:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:05:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:05:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:05:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:05:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:05:   code: 'EADDRINUSE',
+2024-12-23T00:31:05:   errno: -48,
+2024-12-23T00:31:05:   syscall: 'listen',
+2024-12-23T00:31:05:   address: '::',
+2024-12-23T00:31:05:   port: 3000
+2024-12-23T00:31:05: }
+2024-12-23T00:31:05: (node:9492) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:05: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:05: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:05:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:05:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:05:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:05:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:05:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:05:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:05:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:05:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:05:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:05:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:05:   code: 'EADDRINUSE',
+2024-12-23T00:31:05:   errno: -48,
+2024-12-23T00:31:05:   syscall: 'listen',
+2024-12-23T00:31:05:   address: '::',
+2024-12-23T00:31:05:   port: 3000
+2024-12-23T00:31:05: }
+2024-12-23T00:31:06: (node:9721) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:06: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:06: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:06:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:06:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:06:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:06:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:06:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:06:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:06:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:06:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:06:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:06:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:06:   code: 'EADDRINUSE',
+2024-12-23T00:31:06:   errno: -48,
+2024-12-23T00:31:06:   syscall: 'listen',
+2024-12-23T00:31:06:   address: '::',
+2024-12-23T00:31:06:   port: 3000
+2024-12-23T00:31:06: }
+2024-12-23T00:31:07: (node:9781) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:07: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:07: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:07:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:07:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:07:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:07:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:07:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:07:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:07:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:07:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:07:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:07:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:07:   code: 'EADDRINUSE',
+2024-12-23T00:31:07:   errno: -48,
+2024-12-23T00:31:07:   syscall: 'listen',
+2024-12-23T00:31:07:   address: '::',
+2024-12-23T00:31:07:   port: 3000
+2024-12-23T00:31:07: }
+2024-12-23T00:31:09: (node:10157) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:09: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:09: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:09:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:09:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:09:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:09:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:09:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:09:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:09:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:09:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:09:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:09:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:09:   code: 'EADDRINUSE',
+2024-12-23T00:31:09:   errno: -48,
+2024-12-23T00:31:09:   syscall: 'listen',
+2024-12-23T00:31:09:   address: '::',
+2024-12-23T00:31:09:   port: 3000
+2024-12-23T00:31:09: }
+2024-12-23T00:31:09: (node:10242) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:09: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:09: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:09:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:09:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:09:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:09:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:09:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:09:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:09:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:09:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:09:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:09:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:09:   code: 'EADDRINUSE',
+2024-12-23T00:31:09:   errno: -48,
+2024-12-23T00:31:09:   syscall: 'listen',
+2024-12-23T00:31:09:   address: '::',
+2024-12-23T00:31:09:   port: 3000
+2024-12-23T00:31:09: }
+2024-12-23T00:31:10: (node:10340) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:10: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:10: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:10:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:10:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:10:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:10:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:10:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:10:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:10:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:10:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:10:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:10:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:10:   code: 'EADDRINUSE',
+2024-12-23T00:31:10:   errno: -48,
+2024-12-23T00:31:10:   syscall: 'listen',
+2024-12-23T00:31:10:   address: '::',
+2024-12-23T00:31:10:   port: 3000
+2024-12-23T00:31:10: }
+2024-12-23T00:31:10: (node:10410) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:10: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:10: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:10:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:10:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:10:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:10:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:10:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:10:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:10:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:10:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:10:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:10:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:10:   code: 'EADDRINUSE',
+2024-12-23T00:31:10:   errno: -48,
+2024-12-23T00:31:10:   syscall: 'listen',
+2024-12-23T00:31:10:   address: '::',
+2024-12-23T00:31:10:   port: 3000
+2024-12-23T00:31:10: }
+2024-12-23T00:31:12: (node:10778) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:12: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:12: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:12:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:12:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:12:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:12:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:12:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:12:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:12:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:12:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:12:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:12:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:12:   code: 'EADDRINUSE',
+2024-12-23T00:31:12:   errno: -48,
+2024-12-23T00:31:12:   syscall: 'listen',
+2024-12-23T00:31:12:   address: '::',
+2024-12-23T00:31:12:   port: 3000
+2024-12-23T00:31:12: }
+2024-12-23T00:31:13: (node:10862) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:13: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:13: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:13:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:13:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:13:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:13:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:13:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:13:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:13:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:13:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:13:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:13:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:13:   code: 'EADDRINUSE',
+2024-12-23T00:31:13:   errno: -48,
+2024-12-23T00:31:13:   syscall: 'listen',
+2024-12-23T00:31:13:   address: '::',
+2024-12-23T00:31:13:   port: 3000
+2024-12-23T00:31:13: }
+2024-12-23T00:31:13: (node:11060) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:13: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:13: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:13:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:13:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:13:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:13:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:13:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:13:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:13:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:13:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:13:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:13:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:13:   code: 'EADDRINUSE',
+2024-12-23T00:31:13:   errno: -48,
+2024-12-23T00:31:13:   syscall: 'listen',
+2024-12-23T00:31:13:   address: '::',
+2024-12-23T00:31:13:   port: 3000
+2024-12-23T00:31:13: }
+2024-12-23T00:31:14: (node:11132) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:14: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:14: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:14:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:14:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:14:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:14:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:14:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:14:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:14:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:14:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:14:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:14:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:14:   code: 'EADDRINUSE',
+2024-12-23T00:31:14:   errno: -48,
+2024-12-23T00:31:14:   syscall: 'listen',
+2024-12-23T00:31:14:   address: '::',
+2024-12-23T00:31:14:   port: 3000
+2024-12-23T00:31:14: }
+2024-12-23T00:31:14: (node:11195) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:14: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:14: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:14:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:14:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:14:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:14:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:14:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:14:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:14:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:14:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:14:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:14:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:14:   code: 'EADDRINUSE',
+2024-12-23T00:31:14:   errno: -48,
+2024-12-23T00:31:14:   syscall: 'listen',
+2024-12-23T00:31:14:   address: '::',
+2024-12-23T00:31:14:   port: 3000
+2024-12-23T00:31:14: }
+2024-12-23T00:31:15: (node:11295) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:15: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:15: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:15:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:15:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:15:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:15:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:15:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:15:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:15:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:15:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:15:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:15:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:15:   code: 'EADDRINUSE',
+2024-12-23T00:31:15:   errno: -48,
+2024-12-23T00:31:15:   syscall: 'listen',
+2024-12-23T00:31:15:   address: '::',
+2024-12-23T00:31:15:   port: 3000
+2024-12-23T00:31:15: }
+2024-12-23T00:31:15: (node:11365) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:15: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:15: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:15:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:15:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:15:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:15:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:15:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:15:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:15:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:15:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:15:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:15:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:15:   code: 'EADDRINUSE',
+2024-12-23T00:31:15:   errno: -48,
+2024-12-23T00:31:15:   syscall: 'listen',
+2024-12-23T00:31:15:   address: '::',
+2024-12-23T00:31:15:   port: 3000
+2024-12-23T00:31:15: }
+2024-12-23T00:31:15: (node:11422) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:15: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:15: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:15:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:15:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:15:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:15:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:15:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:15:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:15:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:15:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:15:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:15:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:15:   code: 'EADDRINUSE',
+2024-12-23T00:31:15:   errno: -48,
+2024-12-23T00:31:15:   syscall: 'listen',
+2024-12-23T00:31:15:   address: '::',
+2024-12-23T00:31:15:   port: 3000
+2024-12-23T00:31:15: }
+2024-12-23T00:31:16: (node:11583) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:16: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:16: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:16:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:16:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:16:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:16:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:16:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:16:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:16:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:16:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:16:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:16:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:16:   code: 'EADDRINUSE',
+2024-12-23T00:31:16:   errno: -48,
+2024-12-23T00:31:16:   syscall: 'listen',
+2024-12-23T00:31:16:   address: '::',
+2024-12-23T00:31:16:   port: 3000
+2024-12-23T00:31:16: }
+2024-12-23T00:31:18: (node:11816) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:18: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:18: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:18:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:18:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:18:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:18:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:18:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:18:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:18:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:18:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:18:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:18:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:18:   code: 'EADDRINUSE',
+2024-12-23T00:31:18:   errno: -48,
+2024-12-23T00:31:18:   syscall: 'listen',
+2024-12-23T00:31:18:   address: '::',
+2024-12-23T00:31:18:   port: 3000
+2024-12-23T00:31:18: }
+2024-12-23T00:31:18: (node:11914) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:18: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:18: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:18:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:18:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:18:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:18:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:18:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:18:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:18:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:18:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:18:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:18:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:18:   code: 'EADDRINUSE',
+2024-12-23T00:31:18:   errno: -48,
+2024-12-23T00:31:18:   syscall: 'listen',
+2024-12-23T00:31:18:   address: '::',
+2024-12-23T00:31:18:   port: 3000
+2024-12-23T00:31:18: }
+2024-12-23T00:31:19: (node:12055) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:19: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:19: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:19:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:19:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:19:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:19:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:19:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:19:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:19:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:19:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:19:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:19:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:19:   code: 'EADDRINUSE',
+2024-12-23T00:31:19:   errno: -48,
+2024-12-23T00:31:19:   syscall: 'listen',
+2024-12-23T00:31:19:   address: '::',
+2024-12-23T00:31:19:   port: 3000
+2024-12-23T00:31:19: }
+2024-12-23T00:31:19: (node:12124) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:19: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:19: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:19:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:19:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:19:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:19:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:19:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:19:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:19:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:19:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:19:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:19:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:19:   code: 'EADDRINUSE',
+2024-12-23T00:31:19:   errno: -48,
+2024-12-23T00:31:19:   syscall: 'listen',
+2024-12-23T00:31:19:   address: '::',
+2024-12-23T00:31:19:   port: 3000
+2024-12-23T00:31:19: }
+2024-12-23T00:31:20: (node:12250) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:20: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:20: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:20:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:20:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:20:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:20:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:20:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:20:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:20:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:20:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:20:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:20:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:20:   code: 'EADDRINUSE',
+2024-12-23T00:31:20:   errno: -48,
+2024-12-23T00:31:20:   syscall: 'listen',
+2024-12-23T00:31:20:   address: '::',
+2024-12-23T00:31:20:   port: 3000
+2024-12-23T00:31:20: }
+2024-12-23T00:31:21: (node:12404) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:21: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:21: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:21:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:21:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:21:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:21:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:21:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:21:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:21:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:21:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:21:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:21:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:21:   code: 'EADDRINUSE',
+2024-12-23T00:31:21:   errno: -48,
+2024-12-23T00:31:21:   syscall: 'listen',
+2024-12-23T00:31:21:   address: '::',
+2024-12-23T00:31:21:   port: 3000
+2024-12-23T00:31:21: }
+2024-12-23T00:31:22: (node:12558) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:22: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:22: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:22:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:22:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:22:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:22:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:22:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:22:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:22:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:22:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:22:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:22:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:22:   code: 'EADDRINUSE',
+2024-12-23T00:31:22:   errno: -48,
+2024-12-23T00:31:22:   syscall: 'listen',
+2024-12-23T00:31:22:   address: '::',
+2024-12-23T00:31:22:   port: 3000
+2024-12-23T00:31:22: }
+2024-12-23T00:31:23: (node:12728) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:23: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:23: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:23:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:23:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:23:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:23:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:23:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:23:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:23:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:23:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:23:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:23:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:23:   code: 'EADDRINUSE',
+2024-12-23T00:31:23:   errno: -48,
+2024-12-23T00:31:23:   syscall: 'listen',
+2024-12-23T00:31:23:   address: '::',
+2024-12-23T00:31:23:   port: 3000
+2024-12-23T00:31:23: }
+2024-12-23T00:31:23: (node:12788) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:23: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:23: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:23:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:23:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:23:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:23:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:23:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:23:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:23:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:23:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:23:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:23:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:23:   code: 'EADDRINUSE',
+2024-12-23T00:31:23:   errno: -48,
+2024-12-23T00:31:23:   syscall: 'listen',
+2024-12-23T00:31:23:   address: '::',
+2024-12-23T00:31:23:   port: 3000
+2024-12-23T00:31:23: }
+2024-12-23T00:31:24: (node:12888) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:24: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:24: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:24:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:24:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:24:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:24:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:24:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:24:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:24:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:24:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:24:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:24:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:24:   code: 'EADDRINUSE',
+2024-12-23T00:31:24:   errno: -48,
+2024-12-23T00:31:24:   syscall: 'listen',
+2024-12-23T00:31:24:   address: '::',
+2024-12-23T00:31:24:   port: 3000
+2024-12-23T00:31:24: }
+2024-12-23T00:31:25: (node:13043) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:25: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:25: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:25:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:25:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:25:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:25:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:25:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:25:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:25:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:25:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:25:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:25:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:25:   code: 'EADDRINUSE',
+2024-12-23T00:31:25:   errno: -48,
+2024-12-23T00:31:25:   syscall: 'listen',
+2024-12-23T00:31:25:   address: '::',
+2024-12-23T00:31:25:   port: 3000
+2024-12-23T00:31:25: }
+2024-12-23T00:31:25: (node:13111) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:25: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:25: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:25:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:25:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:25:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:25:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:25:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:25:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:25:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:25:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:25:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:25:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:25:   code: 'EADDRINUSE',
+2024-12-23T00:31:25:   errno: -48,
+2024-12-23T00:31:25:   syscall: 'listen',
+2024-12-23T00:31:25:   address: '::',
+2024-12-23T00:31:25:   port: 3000
+2024-12-23T00:31:25: }
+2024-12-23T00:31:25: (node:13148) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:25: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:25: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:25:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:25:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:25:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:25:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:25:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:25:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:25:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:25:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:25:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:25:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:25:   code: 'EADDRINUSE',
+2024-12-23T00:31:25:   errno: -48,
+2024-12-23T00:31:25:   syscall: 'listen',
+2024-12-23T00:31:25:   address: '::',
+2024-12-23T00:31:25:   port: 3000
+2024-12-23T00:31:25: }
+2024-12-23T00:31:26: (node:13232) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:26: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:26: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:26:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:26:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:26:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:26:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:26:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:26:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:26:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:26:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:26:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:26:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:26:   code: 'EADDRINUSE',
+2024-12-23T00:31:26:   errno: -48,
+2024-12-23T00:31:26:   syscall: 'listen',
+2024-12-23T00:31:26:   address: '::',
+2024-12-23T00:31:26:   port: 3000
+2024-12-23T00:31:26: }
+2024-12-23T00:31:27: (node:13401) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:27: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:27: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:27:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:27:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:27:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:27:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:27:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:27:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:27:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:27:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:27:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:27:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:27:   code: 'EADDRINUSE',
+2024-12-23T00:31:27:   errno: -48,
+2024-12-23T00:31:27:   syscall: 'listen',
+2024-12-23T00:31:27:   address: '::',
+2024-12-23T00:31:27:   port: 3000
+2024-12-23T00:31:27: }
+2024-12-23T00:31:28: (node:13625) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:28: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:28: Error: listen EADDRINUSE: address already in use :::3000
+2024-12-23T00:31:28:     at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+2024-12-23T00:31:28:     at listenInCluster (node:net:1969:12)
+2024-12-23T00:31:28:     at Server.listen (node:net:2074:7)
+2024-12-23T00:31:28:     at Function.listen (/Users/imertz/coding/node/greek-sites-monitor/node_modules/express/lib/application.js:635:24)
+2024-12-23T00:31:28:     at GreekSiteMonitorServer.start (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:217:28)
+2024-12-23T00:31:28:     at Object.<anonymous> (/Users/imertz/coding/node/greek-sites-monitor/server/server.js:239:10)
+2024-12-23T00:31:28:     at Module._compile (node:internal/modules/cjs/loader:1565:14)
+2024-12-23T00:31:28:     at Object..js (node:internal/modules/cjs/loader:1708:10)
+2024-12-23T00:31:28:     at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-12-23T00:31:28:     at Function._load (node:internal/modules/cjs/loader:1128:12) {
+2024-12-23T00:31:28:   code: 'EADDRINUSE',
+2024-12-23T00:31:28:   errno: -48,
+2024-12-23T00:31:28:   syscall: 'listen',
+2024-12-23T00:31:28:   address: '::',
+2024-12-23T00:31:28:   port: 3000
+2024-12-23T00:31:28: }
+2024-12-23T00:31:29: (node:13751) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:29: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:29: (node:13843) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:29: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:29: (node:13899) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:29: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:30: (node:13985) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:30: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:30: (node:14055) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:30: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:31: (node:14111) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:31: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:33: (node:14589) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:33: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:33: (node:14645) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:33: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:34: (node:14715) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:34: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:34: (node:14800) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:34: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:36: (node:15112) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:36: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:37: (node:15253) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:37: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:38: (node:15520) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:38: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:39: (node:15682) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:39: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:39: (node:15740) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:39: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:40: (node:15824) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:40: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:40: (node:15882) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:40: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:41: (node:15966) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:41: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:41: (node:16022) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:41: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:41: (node:16092) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:41: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:42: (node:16162) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:42: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:42: (node:16246) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:42: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:43: (node:16316) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:43: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:43: (node:16386) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:43: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:43: (node:16442) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:43: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:44: (node:16526) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:44: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:44: (node:16596) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:44: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:45: (node:16654) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:45: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:45: (node:16725) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:45: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:45: (node:16809) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:45: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:46: (node:16879) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:46: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:46: (node:16935) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:46: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:47: (node:17089) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:47: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:48: (node:17146) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:48: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:48: (node:17300) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:48: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:49: (node:17443) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:49: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:50: (node:17587) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:50: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:50: (node:17655) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:50: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:51: (node:17711) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:51: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:51: (node:17781) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:51: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:52: (node:17851) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:52: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:52: (node:17935) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:52: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:53: (node:18078) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:53: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:53: (node:18148) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:53: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:54: (node:18204) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:54: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:55: (node:18428) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:55: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:55: (node:18500) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:55: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:56: (node:18570) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:56: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:56: (node:18696) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:56: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:57: (node:18766) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:57: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:57: (node:18850) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:57: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:58: (node:18991) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:58: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:58: (node:19061) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:58: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:59: (node:19131) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:59: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:31:59: (node:19187) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:31:59: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:00: (node:19344) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:00: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:01: (node:19413) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:01: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:01: (node:19469) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:01: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:02: (node:19694) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:02: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:03: (node:19819) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:03: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:03: (node:19889) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:03: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:05: (node:20117) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:05: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:05: (node:20185) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:05: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:05: (node:20257) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:05: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:06: (node:20327) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:06: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:06: (node:20397) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:06: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:07: (node:20453) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:07: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:07: (node:20538) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:07: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:07: (node:20609) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:07: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:08: (node:20680) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:08: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:08: (node:20750) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:08: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:09: (node:20820) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:09: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:09: (node:20891) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:09: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:09: (node:20961) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:09: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:10: (node:21030) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:10: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:10: (node:21086) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:10: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:11: (node:21170) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:11: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:11: (node:21240) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:11: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:11: (node:21296) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:11: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:12: (node:21380) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:12: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:12: (node:21436) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:12: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:13: (node:21591) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:13: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:13: (node:21646) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:13: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:14: (node:21730) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:14: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:14: (node:21800) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:14: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:15: (node:21856) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:15: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:15: (node:21940) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:15: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:16: (node:22067) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:16: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:16: (node:22151) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:16: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:17: (node:22221) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:17: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:17: (node:22291) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:17: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:18: (node:22348) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:18: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:18: (node:22432) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:18: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:18: (node:22488) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:18: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:19: (node:22572) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:19: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:19: (node:22642) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:19: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:20: (node:22698) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:20: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:20: (node:22782) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:20: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:21: (node:22922) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:21: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:21: (node:22992) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:21: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:22: (node:23062) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:22: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:23: (node:23202) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:23: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:23: (node:23272) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:23: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:24: (node:23412) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:24: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:24: (node:23482) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:24: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:25: (node:23538) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:25: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:25: (node:23622) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:25: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:25: (node:23678) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:25: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:26: (node:23748) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:26: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:26: (node:23832) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:26: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:27: (node:23902) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:27: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:27: (node:23972) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:27: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:28: (node:24043) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:28: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:28: (node:24113) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:28: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:28: (node:24169) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:28: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:29: (node:24240) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:29: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:29: (node:24324) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:29: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:30: (node:24394) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:30: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:30: (node:24464) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:30: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:30: (node:24520) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:30: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:31: (node:24674) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:31: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:32: (node:24744) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:32: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:32: (node:24814) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:32: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:32: (node:24870) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:32: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:33: (node:24940) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:33: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:33: (node:25024) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:33: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:34: (node:25094) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:34: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:34: (node:25165) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:34: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:34: (node:25222) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:34: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:35: (node:25306) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:35: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:35: (node:25362) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:35: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:36: (node:25446) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:36: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:36: (node:25516) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:36: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:37: (node:25572) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:37: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:38: (node:25726) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:38: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:39: (node:25939) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:39: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:39: (node:26065) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:39: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:42: (node:26438) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:42: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:43: (node:26565) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:43: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:45: (node:26735) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:45: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:45: (node:26805) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:45: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:47: (node:27156) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:47: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:48: (node:27227) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:48: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:49: (node:27367) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:49: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:50: (node:27591) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:50: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:50: (node:27647) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:50: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:51: (node:27731) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:51: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:51: (node:27801) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:51: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:52: (node:27872) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:52: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:52: (node:27942) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:52: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:52: (node:28001) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:52: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:53: (node:28085) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:53: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:53: (node:28141) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:53: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:54: (node:28211) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:54: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:54: (node:28295) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:54: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:54: (node:28365) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:54: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:55: (node:28435) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:55: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:55: (node:28506) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:55: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:56: (node:28576) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:56: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:56: (node:28646) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:56: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:56: (node:28716) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:56: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:57: (node:28786) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:57: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:57: (node:28842) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:57: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:58: (node:29068) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:58: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:59: (node:29138) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:59: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:32:59: (node:29194) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:32:59: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:00: (node:29278) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:00: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:00: (node:29334) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:00: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:00: (node:29418) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:00: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:01: (node:29488) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:01: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:01: (node:29544) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:01: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:02: (node:29629) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:02: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:02: (node:29699) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:02: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:04: (node:29895) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:04: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:04: (node:29965) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:04: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:05: (node:30122) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:05: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:08: (node:30472) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:08: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:08: (node:30613) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:08: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:09: (node:30683) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:09: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:09: (node:30753) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:09: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:10: (node:30823) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:10: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:10: (node:30893) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:10: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:10: (node:30963) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:10: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:11: (node:31103) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:11: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:12: (node:31174) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:12: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:12: (node:31244) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:12: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:13: (node:31476) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:13: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:14: (node:31530) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:14: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:14: (node:31614) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:14: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:15: (node:31755) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:15: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:15: (node:31810) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:15: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:16: (node:31894) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:16: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:16: (node:31964) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:16: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:17: (node:32020) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:17: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:17: (node:32090) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:17: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:18: (node:32231) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:18: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:19: (node:32385) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:19: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:19: (node:32441) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:19: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:20: (node:32511) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:20: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:22: (node:32888) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:22: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:23: (node:33036) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:23: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:23: (node:33112) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:23: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:23: (node:33184) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:23: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:24: (node:33257) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:24: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:24: (node:33330) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:24: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:25: (node:33386) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:25: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:25: (node:33476) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:25: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:25: (node:33533) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:25: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:26: (node:33618) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:26: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:26: (node:33676) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:26: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:27: (node:33763) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:27: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:27: (node:33836) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:27: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:27: (node:33894) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:27: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:28: (node:33982) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:28: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:29: (node:34132) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:29: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:29: (node:34188) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:29: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:29: (node:34274) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:29: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:30: (node:34330) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:30: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:30: (node:34414) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:30: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:32: (node:34627) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:32: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:32: (node:34767) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:32: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:33: (node:34910) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:33: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:34: (node:34982) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:34: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:35: (node:35127) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:35: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:35: (node:35197) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:35: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:35: (node:35255) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:35: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:36: (node:35339) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:36: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:36: (node:35409) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:36: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:36: (node:35465) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:36: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:37: (node:35551) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:37: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:38: (node:35748) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:38: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:39: (node:35906) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:39: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:39: (node:35960) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:39: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:40: (node:36044) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:40: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:40: (node:36115) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:40: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:41: (node:36187) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:41: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:41: (node:36243) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:41: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:41: (node:36317) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:41: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:42: (node:36415) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:42: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:42: (node:36448) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:42: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:43: (node:36483) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:43: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:43: (node:36517) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:43: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:43: (node:36571) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:43: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:44: (node:36607) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:44: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:44: (node:36642) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:44: (Use `node --trace-deprecation ...` to show where the warning was created)
+2024-12-23T00:33:45: (node:36677) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+2024-12-23T00:33:45: (Use `node --trace-deprecation ...` to show where the warning was created)

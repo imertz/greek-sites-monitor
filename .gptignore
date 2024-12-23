@@ -1,0 +1,6 @@
+node_modules/
+site_status.db
+public/
+package-lock.json
+README.md
+LICENSE

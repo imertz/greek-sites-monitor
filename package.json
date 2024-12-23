@@ -34,7 +34,8 @@
   "homepage": "https://github.com/imertz/greek-sites-monitor#readme",
   "dependencies": {
     "axios": "^1.7.9",
-    "better-sqlite3": "^11.7.0"
+    "better-sqlite3": "^11.7.0",
+    "express": "^4.21.2"
   },
   "engines": {
     "node": ">=14.0.0"
