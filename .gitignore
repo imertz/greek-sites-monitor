@@ -1,4 +1,6 @@
 node_modules/
 site_status.db
+site_status.db-shm
+site_status.db-wal
 public/
 index.html
