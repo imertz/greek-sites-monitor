@@ -9,7 +9,7 @@ module.exports = {
       max_memory_restart: "1G",
       env: {
         NODE_ENV: "production",
-        PORT: 3000,
+        PORT: 3002,
       },
       error_file: "logs/server-error.log",
       out_file: "logs/server-output.log",
@@ -22,7 +22,7 @@ module.exports = {
       max_memory_restart: "512M",
       env: {
         NODE_ENV: "production",
-        SERVER_URL: "http://localhost:3000",
+        SERVER_URL: "http://localhost:3002",
         API_KEY: "your-api-key-here", // Replace with actual API key
       },
       error_file: "logs/client-error.log",

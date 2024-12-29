@@ -7,13 +7,14 @@ const fs = require("fs");
 const crypto = require("crypto");
 
 class GreekSiteMonitorServer {
-  constructor(dbPath = "site_status.db", port = 3000) {
+  constructor(dbPath = "site_status.db", port = 3002) {
     this.dbPath = dbPath;
     this.port = port;
     this.app = express();
     this.db = new Database(dbPath);
     this.db.pragma("journal_mode = WAL");
 
+    this.batchSize = 5;
     this.initializeDb();
     this.initializeServer();
   }
@@ -42,6 +43,19 @@ class GreekSiteMonitorServer {
         is_up INTEGER,
         error_message TEXT,
         timestamp DATETIME,
+        user_id INTEGER,
+        FOREIGN KEY (user_id) REFERENCES users(id)
+      )
+    `);
+    this.db.exec(`
+      CREATE TABLE IF NOT EXISTS monitored_sites (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        site_name TEXT UNIQUE NOT NULL,
+        url TEXT NOT NULL,
+        category TEXT,
+        is_active INTEGER DEFAULT 1,
+        last_checked DATETIME,
+        created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
         user_id INTEGER,
         FOREIGN KEY (user_id) REFERENCES users(id)
       )
@@ -77,6 +91,75 @@ class GreekSiteMonitorServer {
     this.createUser = this.db.prepare(`
       INSERT INTO users (username, api_key)
       VALUES (?, ?)
+    `);
+
+    // Prepare statements for sites
+    this.getSiteBatchStmt = this.db.prepare(`
+      WITH DownSites AS (
+        SELECT DISTINCT site_name
+        FROM site_status
+        WHERE id IN (
+          SELECT MAX(id)
+          FROM site_status
+          GROUP BY site_name
+        )
+        AND is_up = 0
+      )
+      SELECT ms.site_name, ms.url, ms.category
+      FROM monitored_sites ms
+      LEFT JOIN DownSites ds ON ms.site_name = ds.site_name
+      WHERE ms.is_active = 1 
+      AND (
+        -- Check if site is down (prioritize these)
+        ds.site_name IS NOT NULL 
+        AND ms.last_checked < datetime('now', '-1 minute')
+        OR
+        -- Or if it hasn't been checked in the last 5 minutes
+        (ds.site_name IS NULL 
+         AND (ms.last_checked IS NULL 
+              OR ms.last_checked < datetime('now', '-5 minutes'))
+        )
+      )
+      -- Prioritize down sites first, then by last checked time
+      ORDER BY 
+        CASE WHEN ds.site_name IS NOT NULL THEN 1 ELSE 2 END,
+        ms.last_checked ASC
+      LIMIT ?
+    `);
+    this.checkNeedsSitesStmt = this.db.prepare(`
+      WITH DownSites AS (
+        SELECT DISTINCT site_name
+        FROM site_status
+        WHERE id IN (
+          SELECT MAX(id)
+          FROM site_status
+          GROUP BY site_name
+        )
+        AND is_up = 0
+      )
+      SELECT COUNT(*) as count
+      FROM monitored_sites ms
+      LEFT JOIN DownSites ds ON ms.site_name = ds.site_name
+      WHERE ms.is_active = 1 
+      AND (
+        -- Site is down and hasn't been checked in the last minute
+        (ds.site_name IS NOT NULL AND ms.last_checked < datetime('now', '-1 minute'))
+        OR
+        -- Or hasn't been checked in the last 5 minutes
+        (ds.site_name IS NULL AND 
+         (ms.last_checked IS NULL OR ms.last_checked < datetime('now', '-5 minutes')))
+      )
+    `);
+
+    this.updateSiteLastCheckedStmt = this.db.prepare(`
+      UPDATE monitored_sites
+      SET last_checked = CURRENT_TIMESTAMP
+      WHERE site_name = ?
+    `);
+
+    this.addSiteStmt = this.db.prepare(`
+      INSERT INTO monitored_sites (site_name, url, category, user_id)
+      VALUES (?, ?, ?, ?)
     `);
   }
 
@@ -157,6 +240,33 @@ class GreekSiteMonitorServer {
         res.status(500).json({ error: "Error creating user" });
       }
     });
+    this.app.get("/api/sites/batch", authenticateApiKey, (req, res) => {
+      try {
+        const sites = this.getNextSiteBatch();
+        res.status(200).json(sites);
+      } catch (error) {
+        console.error("Error retrieving sites batch:", error);
+        res.status(500).json({ error: "Error retrieving sites batch" });
+      }
+    });
+
+    // Endpoint to add new sites
+    this.app.post("/api/sites", authenticateApiKey, (req, res) => {
+      try {
+        const { sites } = req.body;
+        if (!Array.isArray(sites)) {
+          return res.status(400).json({ error: "Sites must be an array" });
+        }
+
+        const addedSites = this.addSites(sites, req.user.id);
+        res
+          .status(201)
+          .json({ message: "Sites added successfully", addedSites });
+      } catch (error) {
+        console.error("Error adding sites:", error);
+        res.status(500).json({ error: "Error adding sites" });
+      }
+    });
   }
 
   generateApiKey() {
@@ -230,6 +340,51 @@ class GreekSiteMonitorServer {
       }
     }
     return "other";
+  }
+  getNextSiteBatch() {
+    // First check if there are any sites that need checking
+    const needsCheck = this.checkNeedsSitesStmt.get();
+
+    if (needsCheck.count === 0) {
+      return []; // Return empty array if no sites need checking
+    }
+
+    const sites = this.getSiteBatchStmt.all(this.batchSize);
+
+    // Update last_checked timestamp for returned sites
+    const transaction = this.db.transaction((sitesToUpdate) => {
+      for (const site of sitesToUpdate) {
+        this.updateSiteLastCheckedStmt.run(site.site_name);
+      }
+    });
+
+    transaction(sites);
+    return sites;
+  }
+
+  addSites(sites, userId) {
+    const addedSites = [];
+    const transaction = this.db.transaction((sitesToAdd) => {
+      for (const site of sitesToAdd) {
+        try {
+          this.addSiteStmt.run(
+            site.site_name,
+            site.url,
+            site.category || "other",
+            userId
+          );
+          addedSites.push(site);
+        } catch (error) {
+          if (error.code !== "SQLITE_CONSTRAINT") {
+            throw error;
+          }
+          // Skip duplicates silently
+        }
+      }
+    });
+
+    transaction(sites);
+    return addedSites;
   }
   updateStatusFile(results) {
     const statusData = {

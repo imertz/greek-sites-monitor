@@ -4,3 +4,4 @@ site_status.db-wal
 site_status.db-shm
 public/
 index.html
+logs/
